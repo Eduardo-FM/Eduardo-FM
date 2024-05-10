@@ -3,7 +3,7 @@
 I'm Eduardo Freitas Machado, I'm a passionate Junior Software Engineer, and started my career in tech in 2023. 
 
 ## 🚀 Skills
-- **Languages:** Java, JavaScript, TypeScript
+- **Languages:** Java, JavaScript, TypeScript, Python
 - **Frameworks:** Spring, Angular
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, BitBucket
