@@ -18,8 +18,7 @@ I'm Eduardo Freitas Machado, I'm a passionate Junior Software Engineer, and star
 ## Statistics
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Eduardo-FM">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
