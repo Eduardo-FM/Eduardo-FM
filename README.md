@@ -19,11 +19,7 @@ I'm Eduardo Freitas Machado, I'm a passionate Junior Software Engineer, and star
 
 <div>
 <a href="https://github.com/Eduardo-FM">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&hide=css,scss,html&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&hide=css,scss,html&layout=compact&langs_count=7&theme=dracula&language_color_python=4CAF50"/>
 </div>
 
-<div>
-  <a href="https://github.com/Eduardo-FM">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&hide=css,scss,html&layout=compact&langs_count=7&theme=dracula&title_color=4CAF50"/>
-  </a>
-</div>
+
