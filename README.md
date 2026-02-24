@@ -5,7 +5,7 @@ I'm Eduardo Freitas Machado, I'm a passionate Mid level Software Engineer, and s
 ## 🚀 Skills
 - **Languages:** Java, JavaScript, TypeScript, Python
 - **Frameworks:** Spring, Angular
-- **Databases:** MySQL
+- **Databases:** MySQL, PostgreSql, MongoDB
 - **Tools:** Git, GitHub, BitBucket
 - **IDEs:** IntelliJ IDEA, VSCode, Eclipse
 
