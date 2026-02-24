@@ -18,8 +18,9 @@ I'm Eduardo Freitas Machado, I'm a passionate Mid level Software Engineer, and s
 ## Statistics
 
 <div>
-<a href="https://github.com/Eduardo-FM">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&hide=css,scss,html&layout=compact&langs_count=7&theme=dracula&language_color_python=4CAF50"/>
+  <a href="https://github.com/Eduardo-FM">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FM&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
+  </a>
 </div>
-
 
